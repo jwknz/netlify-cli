@@ -77,3 +77,9 @@ netlify open:admin
 * [https://www.netlify.com/docs/netlify-toml-reference/](https://www.netlify.com/docs/netlify-toml-reference/)
 
 * [https://cli.netlify.com](https://cli.netlify.com)
+
+**Site Preview**
+
+The site is a single line of HTML, but still a reference to this readme :smile:
+
+* [https://netlify101.netlify.com](https://netlify101.netlify.com)
